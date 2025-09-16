@@ -51,8 +51,8 @@ The analysis pipeline is structured as follows:
 
 ## 📊 Results
 
-The analysis identified 23 distinct cell populations from the initial 55,206 cells. 
-After quality control, 49,661 cells were analyzed. 
-Key findings include the identification of various CD8+ T cell subtypes based on the expression of the following 6 marker genes - GZMB, PRF1, IFNG, TNF, CCR7, and IL7R. 
-The final clustered data is visualized using UMAP plots, which clearly delineate the different cell populations.
+The analysis identified 23 distinct cell populations from the initial 55,206 cells.  
+After quality control, 49,661 cells were analyzed.  
+Key findings include the identification of various CD8+ T cell subtypes based on the expression of the following 6 marker genes - GZMB, PRF1, IFNG, TNF, CCR7, and IL7R.  
+The final clustered data is visualized using UMAP plots, which clearly delineate the different cell populations.  
 
