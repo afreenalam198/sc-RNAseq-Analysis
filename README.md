@@ -32,7 +32,7 @@ The analysis pipeline is structured as follows:
     * **Principal Component Analysis (PCA)** is performed on the scaled data to reduce its dimensionality while retaining most of the variance.
     * **Uniform Manifold Approximation and Projection (UMAP)** is used to visualize the data in a 2D space, revealing the underlying cell population structure.
 
-5.  **Clustering and Cell Type Annotation**:
+5.  **Clustering and Gene Marker Identification**:
     * The Leiden algorithm is applied to cluster cells into distinct populations based on their gene expression profiles.
     * Marker genes for each cluster are identified and visualized using Heatmap and UMAP.
 
